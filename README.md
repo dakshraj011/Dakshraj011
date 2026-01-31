@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center"></div>
 
-<img src="https://i.pinimg.com/originals/38/bc/46/38bc4680ff8118238038195942744d91.gif">
+<img src="https://i.pinimg.com/originals/38/bc/46/38bc4680ff8118238038195942744d91.gif" width="855px">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Daksh%20Raj%20Singh&fontSize=64&animation=fadeIn&desc=Cloud%20Computing%20%E2%97%8F%20Web%20Developer&descSize=28&descAlign=50&descAlignY=65&textBg=false">
 
